@@ -1,0 +1,10 @@
+Flask==3.1.1
+Flask-JWT-Extended==4.7.1
+Flask-SQLAlchemy==3.1.1
+Flask-CORS==5.0.1
+python-dotenv==1.1.0
+bcrypt==4.3.0
+scikit-learn==1.6.1
+numpy==2.2.6
+PyMySQL==1.1.1
+pytest==8.3.5
